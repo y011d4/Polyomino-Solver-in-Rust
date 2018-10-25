@@ -1,0 +1,6 @@
+[package]
+name = "polyomino"
+version = "0.1.0"
+authors = ["Yo Iida <yoiida333@gmail.com>"]
+
+[dependencies]
